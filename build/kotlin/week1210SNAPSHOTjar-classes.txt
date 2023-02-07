@@ -1,0 +1,1 @@
+D:\WORK DIP2.2\JAVA\week12\build\classes\kotlin\main\FuntionTestKt$sum$1.class;D:\WORK DIP2.2\JAVA\week12\build\classes\kotlin\main\FuntionTestKt.class;D:\WORK DIP2.2\JAVA\week12\build\classes\kotlin\main\MainKt$main$2.class;D:\WORK DIP2.2\JAVA\week12\build\classes\kotlin\main\MainKt$main$myLambda$1.class;D:\WORK DIP2.2\JAVA\week12\build\classes\kotlin\main\MainKt.class
